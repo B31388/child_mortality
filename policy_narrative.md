@@ -1,0 +1,11 @@
+Policy Narrative: Addressing Child Mortality Disparities in Sub-Saharan Africa
+
+In 2023, Sub-Saharan Africa accounted for 58% of global under-5 deaths, with stark disparities across countries like Nigeria, Ethiopia, and Kenya (). Nigeria’s under-5 mortality rate (U5MR) of 101 per 1,000 live births far exceeds Ethiopia’s 49 and Kenya’s 35, reflecting deep inequities driven by socioeconomic and systemic factors. Between 2020 and 2024, Nigeria’s U5MR declined by 14.8%, Ethiopia’s by 14.5%, and Kenya’s by 19.5%, yet progress remains uneven, with Nigeria lagging significantly.
+
+Key correlating factors include maternal education, healthcare access, and sanitation. In Nigeria, only 30% of mothers have secondary education, compared to 50% in Kenya, correlating with higher U5MR (). Institutional delivery rates are 43% in Nigeria versus 70% in Kenya, and improved sanitation access is 38% versus 65%, respectively (). These disparities exacerbate preventable causes like pneumonia, diarrhea, and neonatal complications, which dominate under-5 deaths ().
+
+To address these gaps, policymakers must prioritize targeted interventions. First, expand access to quality maternal and child healthcare through mobile clinics and trained community health workers, particularly in Nigeria’s underserved regions. Second, invest in girls’ education to improve maternal health literacy, a proven reducer of child mortality (). Third, enhance sanitation infrastructure to curb infectious diseases, focusing on rural areas. Fourth, strengthen data systems for real-time mortality tracking to inform responsive policies (). Finally, address socioeconomic inequities through wealth redistribution and social protection programs to mitigate risks like malnutrition.
+
+Nigeria requires urgent action to align with Ethiopia and Kenya’s progress. Regional collaboration can facilitate knowledge sharing, with Kenya’s healthcare model offering lessons. Without accelerated efforts, Sub-Saharan Africa risks missing the SDG target of 25 deaths per 1,000 live births by 2030 (). Investments in equity-driven health systems, education, and infrastructure are critical to ensure no child is left behind.
+
+Word count: 297
